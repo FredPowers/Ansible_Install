@@ -71,12 +71,12 @@
 
 # 2 : Création du fichier d'inventaire pour hôtes debian
 # -------------------------------------------------------
-
+	#le fichier inventory_Debian_hosts.csv sert d'exemple afin d'importer la liste des hôtes automatiquement dans le fichier d'inventaire Debian
 
 
 # 3 : Création du fichier d'inventaire pour hôtes windows
 # -------------------------------------------------------
-
+	#le fichier inventory_Windows_hosts.csv sert d'exemple afin d'importer la liste des hôtes automatiquement dans le fichier d'inventaire Windows
 
 # 4 : Test ping & Tests Playbooks
 # -------------------------------
