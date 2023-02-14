@@ -47,7 +47,7 @@ Le script commence par une mise à jour des paquets, si le réseau n'est pas dis
 /etc/apt/sources.list le script indique un message d'erreur et s'arrete.
 
 
-# 0 choix de l'utilisateur
+# 0 : choix de l'utilisateur
 
 
 ![2023-02-14 13_22_49-DebSrv - VMware Workstation 16 Player (Non-commercial use only)](https://user-images.githubusercontent.com/105367565/218738082-7e4ab004-bd49-4274-a053-961bba144473.png)
